@@ -1,4 +1,3 @@
-# laprak-alpro2-Feros-Pedrosa
 
 <div align="center">
   <h1>🎓 Algorithm and Programming 2</h1>
